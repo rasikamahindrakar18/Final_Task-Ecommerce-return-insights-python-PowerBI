@@ -36,7 +36,7 @@ This project presents an interactive Power BI dashboard to analyze product retur
 
 
 ## 📁 Files Included
--  cleaning_script.pdf – Python data preparation notebook
+-  cleaning_script.ipynb – Python data preparation notebook
 -  Ecommerce_Return_Dashboard screenshot` – Power BI dashboard 
 -  final_report.pdf – 2-page project summary
 -  used data - Kaggle – Synthetic dataset for e-commerce returns
